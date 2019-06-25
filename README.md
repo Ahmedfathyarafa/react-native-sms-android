@@ -61,7 +61,7 @@ SmsAndroid.list(JSON.stringify(filter), (fail) => {
 ```
 
 ## Getting Started - Android
-* In `android/setting.gradle`
+* In `android/settings.gradle`
 ```gradle
 ...
 include ':react-native-sms-android'
